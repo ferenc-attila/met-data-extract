@@ -1,4 +1,5 @@
 .idea
 *.iml
 target
-ta_grid_19712020.csv
+ta_grid_19712020.txt
+gridpoints.txt
